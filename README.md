@@ -8,7 +8,7 @@ Termux Commands
 
 4 pkg install python-pip
 
-5 https://github.com/gala999tool/cpmtool999.git
+5 git clone https://github.com/gala999tool/cpmtool999.git
 
 6 cd cpmtool999
 
